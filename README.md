@@ -26,29 +26,29 @@ correct shipments out of the factory! What highscore can you reach?
 
 You have 3 types of boxes you need to work with:
 
-![ScreenShot](images/fragileBox.png) Fragile Box | Chance Of Breaking | 
+![alt text](images/fragileBox.png) Fragile Box | Chance Of Breaking | 
 
-![ScreenShot](images/heavyBox.png) Heavy Box | Slows Movement | 
+![alt text](images/heavyBox.png) Heavy Box | Slows Movement | 
 
-![ScreenShot](images/box.png) Box | Just A Box | 
+![alt text](images/box.png) Box | Just A Box | 
 
 These three boxes will have an effect on your player! 
 
 You have to make sure that when the orders come in, you get the right stickers or bubble wrap on the box with these three stations: 
 
-![ScreenShot](images/BubbleBath.png) Bubble Wrap | Apply Bubble Wrap | 
+![alt text](images/BubbleBath.png) Bubble Wrap | Apply Bubble Wrap | 
 
-![ScreenShot](images/redSticker.png) Red Sticker | Apply Red Sticker | 
+![alt text](images/redSticker.png) Red Sticker | Apply Red Sticker | 
 
-![ScreenShot](images/whiteSticker.png) White Sticker | Apply White Sticker | 
+![alt text](images/whiteSticker.png) White Sticker | Apply White Sticker | 
 
-![ScreenShot](images/blueSticker.png) Blue Sticker | Apply Blue Sticker | 
+![alt text](images/blueSticker.png) Blue Sticker | Apply Blue Sticker | 
 
 Make sure that your box is also safe! 
 
-![ScreenShot](images/x-rayStation.png) X-Ray Station | Check If Box Is Safe |
+![alt text](images/x-rayStation.png) X-Ray Station | Check If Box Is Safe |
 
-![ScreenShot](images/incinerator.png) Incinerator | Destroy Box |
+![alt text](images/incinerator.png) Incinerator | Destroy Box |
 
 ## Controls
 
