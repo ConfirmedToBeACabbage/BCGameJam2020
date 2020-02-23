@@ -3,6 +3,20 @@ My groups submission for BC Game Jam 2020!
 
 To see source code and contributions please visit this link: https://github.com/jayjayish/KillAllBoxes
 
+Team Members:
+
+Loved working with this team! Please go check out their profiles also!
+
+Me: https://github.com/ConfirmedToBeACabbage
+
+https://github.com/mslongo
+
+https://github.com/cheeshee
+
+https://github.com/jayjayish
+
+https://github.com/brandonchan03
+
 Sponsor Winner: Raccopack
 
 Game Description: Packages need to be sent out of the factory in the timely fashion! Work against the clock to get as many
@@ -12,29 +26,35 @@ correct shipments out of the factory! What highscore can you reach?
 
 You have 3 types of boxes you need to work with:
 
-Fragile Box | Chance Of Breaking | 
+![ScreenShot](images/fragileBox.png) Fragile Box | Chance Of Breaking | 
 
-Heavy Box | Slows Movement | 
+![ScreenShot](images/heavyBox.png) Heavy Box | Slows Movement | 
 
-Box | Just A Box | 
+![ScreenShot](images/box.png) Box | Just A Box | 
 
 These three boxes will have an effect on your player! 
 
 You have to make sure that when the orders come in, you get the right stickers or bubble wrap on the box with these three stations: 
 
-Bubble Wrap | Apply Bubble Wrap | 
+![ScreenShot](images/BubbleBath.png) Bubble Wrap | Apply Bubble Wrap | 
 
-Red Sticker | Apply Red Sticker | 
+![ScreenShot](images/redSticker.png) Red Sticker | Apply Red Sticker | 
 
-White Sticker | Apply White Sticker | 
+![ScreenShot](images/whiteSticker.png) White Sticker | Apply White Sticker | 
 
-Blue Sticker | Apply Blue Sticker | 
+![ScreenShot](images/blueSticker.png) Blue Sticker | Apply Blue Sticker | 
+
+Make sure that your box is also safe! 
+
+![ScreenShot](images/x-rayStation.png) X-Ray Station | Check If Box Is Safe |
+
+![ScreenShot](images/incinerator.png) Incinerator | Destroy Box |
 
 ## Controls
 
 You have to work together with your coop partner to get a high score! 
 
-#### Player 1 Controls
+#### Player 1 Controls 
 
 Movement | Up-Left-Right-Down Arrow_Keys
 
