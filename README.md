@@ -36,19 +36,19 @@ These three boxes will have an effect on your player!
 
 You have to make sure that when the orders come in, you get the right stickers or bubble wrap on the box with these three stations: 
 
-![Screenshot](images/BubbleBath.png) Bubble Wrap | Apply Bubble Wrap | 
+![Screenshot](Images/BubbleBath.png) Bubble Wrap | Apply Bubble Wrap | 
 
-![Screenshot](images/redSticker.png) Red Sticker | Apply Red Sticker | 
+![Screenshot](Images/redSticker.png) Red Sticker | Apply Red Sticker | 
 
-![Screenshot](images/whiteSticker.png) White Sticker | Apply White Sticker | 
+![Screenshot](Images/whiteSticker.png) White Sticker | Apply White Sticker | 
 
-![Screenshot](images/blueSticker.png) Blue Sticker | Apply Blue Sticker | 
+![Screenshot](Images/blueSticker.png) Blue Sticker | Apply Blue Sticker | 
 
 Make sure that your box is also safe! 
 
-![Screenshot](images/x-rayStation.png) X-Ray Station | Check If Box Is Safe |
+![Screenshot](Images/x-rayStation.png) X-Ray Station | Check If Box Is Safe |
 
-![Screenshot](images/incinerator.png) Incinerator | Destroy Box |
+![Screenshot](Images/incinerator.png) Incinerator | Destroy Box |
 
 ## Controls
 
